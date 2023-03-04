@@ -1,0 +1,106 @@
+.navbar{
+  background: darkred;
+  padding: 15px;
+  margin: 15px;
+}
+
+.navbar h2{
+  display: inline;
+  color: white;
+  font-weight: normal;
+}
+
+#navbar-a{
+  font-weight: bolder;
+}
+
+.navbar-menu{
+  display: inline;
+  float: right;
+}
+
+.navbar-menu a{
+  margin-left: 15px;
+  color: ghostwhite;
+}
+
+.main{
+  margin: 15px;
+  padding: 20px;
+  background: #45f5ef;
+}
+
+.main img{
+  width: 630px;
+
+}
+
+.main-text{
+  display: inline;
+  width: 700px;
+  float: right;
+}
+
+.main-text h2{
+  margin: 0;
+  font-size: 34px;
+
+}
+
+.main-text p {
+  font-size: 20px;
+  width: 700px;
+}
+
+.latest{
+  margin-left: 630px;
+}
+
+.latest-news{
+  margin-left: 15px;
+
+}
+
+.latest-news img{
+  width: 300px;
+  height: 230px;
+}
+
+.blocks-in-news{
+  border: solid darkgrey;
+
+  width: 300px;
+  display: inline-block;
+
+}
+.div-in-blocks{
+  margin: 13px;
+}
+
+#Eden-id{
+  margin-top: 28px;
+}
+.div-in-blocks h3{
+  font-size: 22px;
+
+}
+.div-in-blocks p{
+  color: dimgrey;
+  font-size: 17px;
+}
+
+.button-in0blocks{
+  background: darkred;
+  color: white;
+  padding: 5px;
+}
+
+#a{
+  margin-right: 55px;
+}
+#b{
+  margin-right: 55px;
+}
+#c{
+  margin-right: 55px;
+}
